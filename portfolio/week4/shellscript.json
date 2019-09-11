@@ -1,0 +1,68 @@
+
+"Black": {
+	"Black": "black",
+	"body": [
+		"\\033[30m"
+	],
+	"description": "Black color"
+}
+
+"Red": {
+	"Red": "red",
+	"body": [
+		"\\033[31m"
+	],
+	"description": "Red color"
+}
+
+"Green": {
+	"Green": "green",
+	"body": [
+		"\\033[32m"
+	],
+	"description": "Green color"
+}
+
+"Brown": {
+	"Brown": "#!",
+	"body": [
+		"\\033[33m"
+	],
+	"description": "Brown color"
+}
+
+"Blue": {
+	"Blue": "#!",
+	"body": [
+		"\\033[34m"
+	],
+	"description": "Blue color"
+}
+
+"Purple": {
+	"Purple": "#!",
+	"body": [
+		"\\033[35m"
+	],
+	"description": "Purple color"
+}
+
+"Cyan": {
+	"Cyan": "#!",
+	"body": [
+		"\\033[36m"
+	],
+	"description": "Cyan color"
+}
+
+"Gray": {
+	"Gray": "#!",
+	"body": [
+		"\\033[37m"
+	],
+	"description": "Gray color"
+}
+
+
+
+

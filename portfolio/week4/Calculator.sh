@@ -1,12 +1,12 @@
+#!/bin/bash
 
-# Using elif to perform
-# Operations of Calculator 
+# Take user input 
  echo "Type first number?"
 read x 
 
 echo "type second number?"
 read y
-
+# Selecting operation type
 echo "Select operator"
 echo "1. add"
 echo "2. subtract"

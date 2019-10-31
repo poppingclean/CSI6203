@@ -1,0 +1,12 @@
+    enter website URL
+Running the download function:
+    \033[31mERROR:\033[0m $1
+This is the start of script
+thank you
+Thank you
+	Type a number between 1 and 100. Enter your guess:
+		correct
+		Too high
+		Too low
+     base: $i and height: $j area: $Result
+     \033[31mERROR:\033[0m  $VAR1
